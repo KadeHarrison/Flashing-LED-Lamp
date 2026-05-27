@@ -15,5 +15,20 @@ ALthough I'm not too sure on the specifics of how it fully works I do know part 
 
 # Cad Designs
 
+<img width="1470" height="956" alt="Screenshot 2026-05-27 at 9 15 06 pm" src="https://github.com/user-attachments/assets/21ea86f3-ae6e-487c-a618-a2ed4245ad0f" />
 
+This is an image of the bottom part of the base and the lid of the base right next to eachother
 
+<img width="351" height="475" alt="Screenshot 2026-05-27 at 9 16 12 pm" src="https://github.com/user-attachments/assets/7c5dcf69-7233-4916-8f2e-d6f4bfca8e1a" />
+
+This is an image of the inside of the bottom of the base by itself to enhance the view of it's hole
+
+<img width="352" height="381" alt="Screenshot 2026-05-27 at 9 16 21 pm" src="https://github.com/user-attachments/assets/ffffd34c-9187-430d-a73e-0ccef539dac0" />
+
+This is an image of the top of the lid of the base putting focus on the hole where the acrlyc piece will sit
+
+<img width="1470" height="956" alt="Screenshot 2026-05-27 at 9 16 31 pm" src="https://github.com/user-attachments/assets/d7cae1d4-2906-4829-a1ff-b5bd32fd5556" />
+
+This is an image of the holes on the short side of the lid where the switch and USB A wire will fit next to eachother
+
+[Here is where you can access my Base parts](https://www.tinkercad.com/things/kC6gt5TjKM3-falloutdesign2-lamp/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=V-KT6zl6J-J6KWzli3JYsMJJHnUKUv7fYH-51g_30aU)
