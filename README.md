@@ -1,6 +1,10 @@
 # Flashing-LED-Lamp
 2nd project for the Shenzhen fallout event which uses more electrical components than the USB hub meaning it is slightly more complicated
 
+**IMPORTANT NOTE**
+
+At first it didn't look like the SVG files didn't export correctly but if you zoom in or have very good eyes you can see a very very thin red outline of the design. Sorry for the inconveniance.
+
 __Flashing LED description__
 
 This is my second project that goes towards the 60 hour total for the Shenzhen hackathon. My motivation for this project was to complete projects that I haven't completed before in my Systems class in the time given and fuse them together to make one whole new design/project. 
