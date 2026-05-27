@@ -15,6 +15,8 @@ ALthough I'm not too sure on the specifics of how it fully works I do know part 
 
 # Cad Designs
 
+**Base designs**
+
 <img width="1470" height="956" alt="Screenshot 2026-05-27 at 9 15 06 pm" src="https://github.com/user-attachments/assets/21ea86f3-ae6e-487c-a618-a2ed4245ad0f" />
 
 This is an image of the bottom part of the base and the lid of the base right next to eachother
@@ -32,3 +34,23 @@ This is an image of the top of the lid of the base putting focus on the hole whe
 This is an image of the holes on the short side of the lid where the switch and USB A wire will fit next to eachother
 
 [Here is where you can access my Base parts](https://www.tinkercad.com/things/kC6gt5TjKM3-falloutdesign2-lamp/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=V-KT6zl6J-J6KWzli3JYsMJJHnUKUv7fYH-51g_30aU)
+
+__Acrylic designs__
+
+<img width="1470" height="956" alt="Screenshot 2026-05-27 at 9 37 58 pm" src="https://github.com/user-attachments/assets/e9acc147-9f5f-42cd-b061-5e4661206cf8" />
+
+This is an image of all the different parts of the acrylic base all in the same image
+
+<img width="558" height="452" alt="Screenshot 2026-05-27 at 9 38 26 pm" src="https://github.com/user-attachments/assets/666fd6bb-af19-487a-a19c-feda1d62a992" />
+
+This is an image of the Goofball design which will be the main focus of the ACrylic design which is why it's so big
+
+<img width="236" height="206" alt="Screenshot 2026-05-27 at 9 38 33 pm" src="https://github.com/user-attachments/assets/5b4fd2c9-9244-4d20-8149-3ca252933ba4" />
+
+This is an image of the Text part of the acrylic design which is made to complement the Goofball design.
+
+<img width="448" height="357" alt="Screenshot 2026-05-27 at 9 38 44 pm" src="https://github.com/user-attachments/assets/8974122e-a5c5-49a8-b93b-299fd28382ea" />
+
+This is an image of the main acrylic part which will hold the other two design elements on it.
+
+[Here is where you can access my acrylic designs](https://www.tinkercad.com/things/1KeQmNdhhAh-fallout-acrylicdesign/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=WiNNvY0Naw_Fd4pKn8BLqupI097vY8Rgafzn0IhOWRQ)
