@@ -75,4 +75,18 @@ This is an image of the main acrylic part which will hold the other two design e
 
 1x Small breadboard
 
+# BOM
 
+__Note: all prices are in AUD so translate it into your personal currency for actual price that relates to you__
+
+**Other note: If your purchasing by all the parts from that website at the same time for cheapest shipping**
+
+| Item | Cost | Shipping cost (Only displayed if shop isn't within reasonable distance of me) | Total price (Shipping + normal cost) |Purpose | Website | Needed / not needed for funding for the fallout event | Link |
+|------|------|---------------|--------------------------------------|---------|---------|-----------------------------------------------|------|
+| blue LED 5mm 350mcd | $0.95 | not needed for me | $0.95 | To act as  one of the lights that light up the acrylic part | Jaycar | not needed | https://www.jaycar.com.au/blue-5mm-led-350mcd-round-diffused/p/ZD0185 |
+| White LED 5mm  4000mcd |  $1.15 | not needed for me | $1.15 | To act as the other light source that will flash with the blue one to light up the acrylic | Jaycar | not needed | https://www.jaycar.com.au/white-5mm-led-4000mcd-round-clear/p/ZD0190 |
+| 100µF capacitor x 2 | 0.28 x 2 = $0.56 | $7.00 | $7.56 | | Core Electronics | no needed | https://core-electronics.com.au/radial-capacitor-100uf.html |
+| 10 kΩ resistors x 2 | $1.65 (no multiplying needed as its a 20 pack) | $7.00 | $8.65 | to be able to connect the LEDs to the circuit without frying them | Core Electronics | no needed | https://core-electronics.com.au/resistor-10k-ohm-1-6th-watt-pth-20-pack.html |
+| 330Ω resistor x 2 | $2.25 (no multiplying needed as its a 20 pack) | $7.00 | $9.25 | Tp be able to connect the transistors to the circuit without frying them | Core Electronics | not needed | https://core-electronics.com.au/resistor-330-ohm-1-4-watt-pth-20-pack-thick-leads.html |
+| PNP transistor x 2 | $3.90 (No multiplication needed as it includs 5x NPN and 5x PNP transistors meaning you can use the extras for other projects | $7.00 | $10.90 | | Core Electronics | Not needed | https://core-electronics.com.au/bipolar-transistor-kit-5-x-pn2222-npn-and-5-x-pn2907-pnp.html |
+| Small Breadboard | $9.55 | $7 | $16.55 | To provide a place to connce all the different electrical components | Core Electronics | not needed | https://core-electronics.com.au/professional-solderless-breadboard-400-tie-points-metal-backing-plate.html|
