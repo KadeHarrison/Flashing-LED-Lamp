@@ -58,3 +58,21 @@ This is an image of the Text part of the acrylic design which is made to complem
 This is an image of the main acrylic part which will hold the other two design elements on it.
 
 [Here is where you can access my acrylic designs](https://www.tinkercad.com/things/1KeQmNdhhAh-fallout-acrylicdesign/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=WiNNvY0Naw_Fd4pKn8BLqupI097vY8Rgafzn0IhOWRQ)
+
+# Specs
+
+2 LEDs:
+
+1x red LED and 1 x blue LED
+
+2x 100µF 25V capacitors
+
+4 resistors:
+
+2x 10 kΩ resistors and 2 x 330Ω
+
+2x PNP tansistors
+
+1x Small breadboard
+
+
