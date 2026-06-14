@@ -1,5 +1,10 @@
+[Flashing_LED-zine.pdf](https://github.com/user-attachments/files/28926737/Flashing_LED-zine.pdf)[Flashing_LED-zine.pdf](https://github.com/user-attachments/files/28926730/Flashing_LED-zine.pdf)
 # Flashing-LED-Lamp
 2nd project for the Shenzhen fallout event which uses more electrical components than the USB hub meaning it is slightly more complicated
+
+<img width="382" height="553" alt="Screenshot 2026-06-14 at 9 39 14 pm" src="https://github.com/user-attachments/assets/710ddcda-5b5b-4f7e-9fd6-4e3590ebb3fd" />
+
+
 
 **IMPORTANT NOTE**
 
