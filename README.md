@@ -14,9 +14,9 @@ __Flashing LED description__
 
 This is my second project that goes towards the 60 hour total for the Shenzhen hackathon. My motivation for this project was to complete projects that I haven't completed before in my Systems class in the time given and fuse them together to make one whole new design/project. 
 
-I began this project knowing that it will take quite a long time as I've had experience with making the two projects I am fusing which was making a flashing LED mechanism and an LED lamp. My thought process was mainly if I couldn't do these in the given time why not try again by fusing them together and completing them in the given time to fully show my improvementover the past couple years with project making.
+I began this project knowing that it will take quite a long time as I've had experience with making the two projects I am fusing which was making a flashing LED mechanism and an LED lamp. My thought process was mainly if I couldn't do these in the given time why not try again by fusing them together and completing them in the given time to fully show my improvement over the past couple years with project making.
 
-Unlike the USB hub however I only used softwares that I was already confident with. This wasn't all negative though as I could work much faster and efficiently hopefully making the process easier for me.
+Unlike my other projects I only used softwares that I was already confident with. This wasn't all negative though as I could work much faster and efficiently hopefully making the process easier for me.
 
 **How it works**
 
@@ -109,7 +109,8 @@ __Note: all prices are in AUD so translate it into your personal currency for ac
 | Switch | $4.95 | $9.95 | $14.9 | to be able to manually turn the circuit on and off | Jaycar | not needed | https://www.jaycar.com.au/dpdt-large-rocker-switch/p/SK0981?srsltid=AfmBOopu6eM_QkYCPlHLt_bO7zgGlsJs2M9kQFyUVgoc3fvsGoGHWTa0fbw |
 | Totals | Price total: $1150.43 | shipping total:$92.5 | All together total: $1242.93 |
 
+
+Alternatively instead of buying a whole entire Laser cutter you could use a website to design, cut and ship the acrylic to you for example: https://www.acrylicsonline.com.au/custom-orders or another website that is for a company local to you or that's cheaper
 # Other information
 Sanity checked by Ayush Singh
 
-Inspired by two different projects I wasn't able to complete within given time in class to prove that I can do it.
