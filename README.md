@@ -4,8 +4,11 @@
 
 <img width="406" height="577" alt="Screenshot 2026-06-20 at 10 01 22 pm" src="https://github.com/user-attachments/assets/027fddec-c6ff-4df3-98c0-be07ab572ea8" />
 
+Looks weird as it is based off a joke image from a youtube series
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5cad630b-9f67-44a7-93b3-050062bf6e8b" />
 
+Inspiration
 
 **IMPORTANT NOTE**
 
