@@ -2,7 +2,8 @@
 # Flashing-LED-Lamp
 2nd project for the Shenzhen fallout event which uses more electrical components than the USB hub meaning it is slightly more complicated
 
-<img width="382" height="553" alt="Screenshot 2026-06-14 at 9 39 14 pm" src="https://github.com/user-attachments/assets/710ddcda-5b5b-4f7e-9fd6-4e3590ebb3fd" />
+<img width="406" height="577" alt="Screenshot 2026-06-20 at 10 01 22 pm" src="https://github.com/user-attachments/assets/027fddec-c6ff-4df3-98c0-be07ab572ea8" />
+
 
 
 
