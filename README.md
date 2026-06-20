@@ -63,6 +63,20 @@ This is an image of the main acrylic part which will hold the other two design e
 
 [Here is where you can access my acrylic designs](https://www.tinkercad.com/things/1KeQmNdhhAh-fallout-acrylicdesign/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=WiNNvY0Naw_Fd4pKn8BLqupI097vY8Rgafzn0IhOWRQ)
 
+# How to make it
+
+1. Use a laser cutter to cut out the SVG files provided. You could also use a website that allows you to cut out custom made acrlyc plates
+
+2. Print out the step files which are provided in this page
+
+3.recreate the Circuit on a breadboard by following the circuit images provided
+
+4. Put it together by fitting the switch into the base, putting the base together, stripping the wires on one end of the USB A connector and connectig it to the breadboard by soldering it to a wire.
+
+5. You now have your own LED lamp which flashes
+
+ 
+
 # Specs
 
 2 LEDs:
@@ -110,7 +124,7 @@ __Note: all prices are in AUD so translate it into your personal currency for ac
 | Totals | Price total: $1150.43 | shipping total:$92.5 | All together total: $1242.93 |
 
 
-Alternatively instead of buying a whole entire Laser cutter you could use a website to design, cut and ship the acrylic to you for example: https://www.acrylicsonline.com.au/custom-orders or another website that is for a company local to you or that's cheaper
+Alternatively instead of buying a whole entire Laser cutter you could use a website which lets you cut out custom acrylic bases.
 # Other information
 Sanity checked by Ayush Singh
 
