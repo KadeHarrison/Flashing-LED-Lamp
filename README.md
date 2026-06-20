@@ -63,6 +63,17 @@ This is an image of the main acrylic part which will hold the other two design e
 
 [Here is where you can access my acrylic designs](https://www.tinkercad.com/things/1KeQmNdhhAh-fallout-acrylicdesign/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=WiNNvY0Naw_Fd4pKn8BLqupI097vY8Rgafzn0IhOWRQ)
 
+# Circuit design
+<img width="768" height="1024" alt="D4C69F60-6379-4DBD-B1F0-E7B387A609B9_1_105_c" src="https://github.com/user-attachments/assets/30aaef79-cf31-4e5e-8fc8-5131f6afcd08" />
+This is what it looks like
+
+<img width="768" height="1024" alt="599295C8-6AC5-4894-9329-F22ADEDAAA7B_1_105_c" src="https://github.com/user-attachments/assets/591d44c7-241d-4f5a-9c3a-c06dd2a4953c" />
+From another angle
+
+<img width="1470" height="956" alt="Screenshot 2026-06-20 at 9 49 53 pm" src="https://github.com/user-attachments/assets/2fa6e459-2d7d-46c2-83bc-a7858f8230bd" />
+
+This is the recreation I madeon TinkerCAD. I didn't directly connect the capacitors as they covered too much of the board.
+
 # How to make it
 
 1. Use a laser cutter to cut out the SVG files provided. You could also use a website that allows you to cut out custom made acrlyc plates
