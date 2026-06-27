@@ -8,14 +8,13 @@ Looks weird as it is based off a joke image from a youtube series
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5cad630b-9f67-44a7-93b3-050062bf6e8b" />
 
-Inspiration
 
 **IMPORTANT NOTE**
 
 At first it didn't look like the SVG files didn't export correctly but if you zoom in or have very good eyes you can see a very very thin red outline of the design. Sorry for the inconveniance.
 
 Partially built as the program I was using for the circuit wasn't working
-__Flashing LED description__
+__Flashing LED description +Inspiration__
 
 This is my second project that goes towards the 60 hour total for the Shenzhen hackathon. My motivation for this project was to complete projects that I haven't completed before in my Systems class in the time given and fuse them together to make one whole new design/project. 
 
