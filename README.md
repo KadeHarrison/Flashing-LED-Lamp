@@ -79,6 +79,22 @@ From another angle
 
 This is the recreation I madeon TinkerCAD. I didn't directly connect the capacitors as they covered too much of the board.
 
+# PCB design 
+
+<img width="1470" height="956" alt="Screenshot 2026-06-27 at 11 04 01 am" src="https://github.com/user-attachments/assets/1d1367d0-fedc-48ec-bfa9-79f15d8c7789" />
+
+This is what the PCB schematic looked like
+
+<img width="1470" height="956" alt="Screenshot 2026-06-27 at 11 04 47 am" src="https://github.com/user-attachments/assets/4d4165b8-ffce-4b0e-adb1-8190f743b22d" />
+
+This is what the PCB looked like in 2D form
+
+<img width="1470" height="956" alt="Screenshot 2026-06-27 at 11 05 24 am" src="https://github.com/user-attachments/assets/09a9e94a-f4ab-46b7-a234-c682c1377c4c" />
+
+This is what the PCB looked like in 3D form
+
+
+
 # How to make it
 
 1. Use a laser cutter to cut out the SVG files provided. You could also use a website that allows you to cut out custom made acrlyc plates
