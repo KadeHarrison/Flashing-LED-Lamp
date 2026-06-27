@@ -15,7 +15,9 @@ At first it didn't look like the SVG files didn't export correctly but if you zo
 
 Partially built as the program I was using for the circuit wasn't working
 
+
 __Flashing LED description +Inspiration__
+
 
 This is my second project that goes towards the 60 hour total for the Shenzhen hackathon. My motivation for this project was to complete projects that I haven't completed before in my Systems class in the time given and fuse them together to make one whole new design/project. 
 
